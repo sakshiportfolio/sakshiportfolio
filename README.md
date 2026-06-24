@@ -1,6 +1,15 @@
 # 💫 About Me:
-building startup ideas<br>open to collaborations <br>exploring enterpreneurship<br>learning tech and businesss<br>ask me about technology<br>dreaming big ,building bigger<br>
+Building startup ideas and meaningful tech solutions.
 
+Open to collaborations on innovative projects and startups.
+
+Exploring entrepreneurship and turning ideas into impact.
+
+Learning technology, business, and the art of building.
+
+Ask me about technology, startups, innovation, and growth.
+
+Dreaming big, building bigger, and creating real-world impact
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi shinde) 

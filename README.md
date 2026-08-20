@@ -1,11 +1,17 @@
-# 💫 About Me:
- 🚀 Building startup ideas and meaningful tech solutions.
- 🤝 Open to collaborations on innovative projects and startups.
- 💡Exploring entrepreneurship and turning ideas into impact.
- 🌱 Learning technology, business, and the art of building.
- 💬Ask me about technology, startups, innovation, and growth.
- ⚡Dreaming big, building bigger, and creating real-world impact
 
+ 👋 Hi, I'm Sakshi Shinde
+
+🎓 Electronics & Communication Engineering Student passionate about technology, innovation, and building practical solutions.
+
+💻 Exploring Python, C/C++, Embedded Systems, VLSI, Digital Electronics, and Web Development.
+
+🚀 I enjoy turning ideas into real-world projects and continuously improving my technical skills.
+
+🔬 Currently learning, building, and experimenting with technologies across Electronics + Software.
+
+🤝 Open to collaborations, internships, innovative projects, and startup ideas.
+
+«Learn. Build. Innovate. Impact.»
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi shinde) 
 

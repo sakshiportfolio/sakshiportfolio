@@ -1,11 +1,11 @@
 # about me
- 👋 Hi, I'm Sakshi
+👋 Hi, I'm Sakshi
 🎓 Electronics & Communication Engineering Student passionate about technology, innovation, and building practical solutions.
 💻 Exploring Python, C/C++, Embedded Systems, VLSI, Digital Electronics, and Web Development.
 🚀 I enjoy turning ideas into real-world projects and continuously improving my technical skills.
 🔬 Currently learning, building, and experimenting with technologies across Electronics + Software.
 🤝 Open to collaborations, internships, innovative projects, and startup ideas.
-«Learn. Build. Innovate. Impact.»
+    «Learn. Build. Innovate. Impact.»
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi shinde) 
